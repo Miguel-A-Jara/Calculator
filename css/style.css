@@ -149,4 +149,8 @@ button:active{
         font-size: 7vw;
         height: 90%;
     }
+
+    .keyboardIcons{
+        display: none;
+    }
 }
